@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/deploy-demo/',
+  base: '/vuepress-demo/',
   title: 'Ske11',
   description: 'Ske11 Demo',
   head: ['link', { rel: 'icon', href: '/logo.png'}], 
